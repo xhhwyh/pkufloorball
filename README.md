@@ -1,3 +1,11 @@
+> [!WARNING]
+> **本项目已迁移 / This repository has been moved.**
+>
+> ⚠️ **注意：** 本仓库已停止维护，处于归档状态。
+> 所有的后续更新、Issue 提交和 Pull Request 请移步至新的组织仓库：
+>
+> 👉 **最新版本地址：[点击此处访问新仓库](https://github.com/PKU-Floorball/pkufloorball)**
+
 # 北京大学软式曲棍球协会主页
 
 ## 快速开始
